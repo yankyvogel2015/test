@@ -8,3 +8,5 @@ db = client[DATABASE_NAME]
 # Debugging: Print database collections to verify the connection
 print("Connected to MongoDB!")
 print("Collections:", db.list_collection_names())
+
+fkmgg
